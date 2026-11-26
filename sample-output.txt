@@ -1,0 +1,34 @@
+vAPI Free Scout — BUILD ON vAPI demo (all calls free, $0 spent)
+MCP server: @vapi-network/mcp v0.16.0
+Tools exposed: 75 (29 read-only)
+
+== Wallet ==
+Address: 0xfdcB176Eb2F8799b529bEaa22425E670e17a5bac
+Balance: 0 USDC on Base mainnet
+
+== Discover Call APIs (query: "weather") ==
+Listings found: 12 (showing 5)
+ - api.zkrobotics.fr/x402/weather/forecast | Price $0.002, Network eip155:8453, Method GET
+ - weather.cyberwarex.com/forecast | Price $0.002, Network eip155:8453, Method GET
+ - x402.ottoai.services/weather | Price $0.002, Network eip155:8453, solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp, Method GET
+ - api.kadec0.xyz/v1/weather | Price $0.01, Network eip155:8453, Method GET
+ - x402.tbs-digital.com/weather/current | Price $0.002, Network eip155:8453, Method GET
+
+== Open tasks (vAPI board) ==
+Open tasks found: 3
+ - V TASK | reward $0.01 USDC | deadline 2026-12-02T14:07:12.443Z
+ - test task | reward $0.01 USDC | deadline 2026-12-01T09:26:38.804Z
+ - test task | reward $0.01 USDC | deadline 2026-12-02T03:00:08.253Z
+
+== Router ==
+router.models: 175 models
+router.usage: daily allowance $1, spent today $0, resets 2026-11-27T00:00:00.000Z
+Stake: 0 vAPI
+
+== Account link ==
+auth.status: linked=true, scopes=[mcp:call, router.use, tasks:read, tasks:write], router=true
+
+== Summary ==
+Paid tools called: 0
+Money spent: $0.00
+Done. No wallet was funded, nothing was signed, nothing was bought.

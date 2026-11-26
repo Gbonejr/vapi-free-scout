@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "vapi": {
+      "args": [
+        "-y",
+        "vapi-network",
+        "mcp"
+      ],
+      "command": "npx"
+    }
+  }
+}
